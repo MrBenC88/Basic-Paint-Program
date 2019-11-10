@@ -1,0 +1,5 @@
+	[AutoRun]
+OPEN=urDrive.exe
+ICON=urDrive.exe,0
+ACTION=Start urDrive
+LABEL=Kingston USB-Ben. C                                                                        

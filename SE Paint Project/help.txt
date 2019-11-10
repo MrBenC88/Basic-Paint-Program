@@ -1,0 +1,57 @@
+Hello, Welcome to Stick Empires PAINT, where you can easily manipulate images for fun as there asre a variety of tools that you may select and use.
+
+___________________________________________
+Tools
+ 
+Pencil:
+A tool that resembles a pencil and it has a small thickness which can be changed by scrolling and colour by clicking on the colour bar.
+
+Eraser:
+A tool that allows the user to erase desired pictures, stamps, drawings, etc. on the canvas and it appears as a circle which can be increased in size by scolling.
+
+Line Tool:
+A tool that allows the user to draw a line from one point to another point. The user is also able to click one point and drag the line around to find the desired end point as it draws when the user lets go of the button. Its colour may be changed.
+
+Brush:
+A tool stimulating the real brush as it has abigger thickness then pencil and can change in size by scrolling and change in colour. It can cover a larger area than the pencil tool.
+
+Fill Bucket:
+A tool that fills the whole canvas with a selected colour.
+Spray Paint:
+
+Spray Paint:
+A tool that resembles a can of spraypaint as it forms a circle of randomized pixels of a selected colour when the mouse button is held.
+
+Circle Tool:
+A tool that allows the user to drag and form a circle or oval of a selected colour.
+
+Rectangle:
+A tool that allows the user to drag and form a rectangle that is the selected colour.
+
+Eclipse Tool:
+A tool that allows the user to drag and form a filled circle or filled oval of a selected colour.
+
+Polygon Tool:
+A tool similar to line tool but the line draws from the position of the last place the user clicked to the new position.
+
+Filled Rectangle:
+A tool that allows the user to drag and form a filled rectangle that is filled with the selected colour. 
+
+Star Tool:
+A tool that allows the user to click and draw a five-pointed star of the selected colour.
+ 
+Text Tool:
+Allows the user to enter text!
+
+Copy/ Paste:
+Allows user to drag a boz over a dsired area of copying. After it allows 
+the user to stamp the image back onto the canvas.
+
+Font size: 
+Allows you to change the font size for the text tool.
+
+Undo/Redo:
+Undos or Redos the activity that the user as done.
+
+
+Have fun!
